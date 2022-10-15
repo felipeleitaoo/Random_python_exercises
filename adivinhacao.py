@@ -1,3 +1,4 @@
+# Exercicio resolvido - fonte: @Alura
 import random
 
 def jogar():
